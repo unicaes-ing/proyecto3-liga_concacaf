@@ -1,0 +1,13 @@
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\bin\Debug\LFE.V1.0.exe.config
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\bin\Debug\LFE.V1.0.exe
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\bin\Debug\LFE.V1.0.pdb
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1.0.csprojAssemblyReference.cache
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1._0.Form_PrincipalForm.resources
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1._0.Properties.Resources.resources
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1.0.csproj.GenerateResource.cache
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1.0.exe
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1.0.pdb
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1._0.Formas.Form_CrearEquipo.resources
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1._0.Formas.Form_EliminarEquipo.resources
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1._0.Formas.Form_CrearJugador.resources
+C:\Users\Galdamez\Desktop\LFE.V1.0\LFE.V1.0\obj\Debug\LFE.V1._0.Formas.Form_TablasResultados.resources
